@@ -1,8 +1,9 @@
 # Capstone-Zhen
 
-This repo is to document the capstone project of Fruit Classification. 
+This repo is to document the capstone project of Fruit Classification. Data Source: https://www.kaggle.com/moltean/fruits
 
 * The model we used is a very simple Convolutional neural network: 3 convolutional layers followed by pooling layers. As a convention, batch normalization and dropout were used to reduce the eisk of overfitting. 
+
 
 ## Dependencies
 Prior to running all the code, adding all the following libraries:
